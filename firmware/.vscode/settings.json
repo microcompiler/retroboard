@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "ft900_registers.h": "c",
+        "mx_board.h": "c",
+        "ft900.h": "c",
+        "mx_font.h": "c",
+        "mx_spibus.h": "c",
+        "mx_printf.h": "c",
+        "mx_config.h": "c",
+        "mx_main.h": "c",
+        "rb_main.h": "c",
+        "rb_draw.h": "c"
+    }
+}
