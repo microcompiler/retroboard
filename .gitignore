@@ -1,0 +1,17 @@
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+### C ###
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.elf
+*.bin
+browse.vc.*
